@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<h1>{{page.title}}</h1>
+
+{% if page.image %}
+
+<img src="../{{page.image}}" />
+
+{% endif %}
+
+{{content}}
+
+<h2>People involved</h2>
+
+<ul>
+    {% for person in page.people %}
+    <li>{{person}} 
+    {% if site.data.people[person]['Google Scholar'] %}(<a href="{{site.data.people[person]['Google Scholar']}}">Google Scholar</a>){% endif %}
+    </li>
+    {% endfor %}
+</ul>
+
+{% if page.publications %}
+<h2>Publications</h2>
+
+{% for pub in page.publications %}
+	{% for item in site.data.publications %}
+		{% if item.title == pub %}
+			{% include publication.html item=item %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+{% endif %}
