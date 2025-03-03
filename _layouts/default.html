@@ -20,58 +20,48 @@
   <body>
     <div class="wrapper">
       <header>
-        {% if site.logo %}
-        <a href="/"
-          ><img
-            src="{{site.logo | relative_url}}"
-            alt="Logo: VisHub University of Edinburgh, Visual+Interactive Data"
-        /></a>
-        {% endif %}
+        <p><img style="border-radius: 50%" 
+          src="https://vishub.net/people/bach.png" 
+          width="130px" style="float: right;"/>
 
-        <p><br/>{{ site.description | default: site.github.project_tagline }}</p>
+        <p style="font-size: 20px; color: black; margin-bottom: 10px;"><b>Benjamin Bach</b>, PhD, HDR</p>
+        <p>
+          <b>Research Scientist</b><br/>
+          Inria, France<br/>
+          <a href="https://bivwac.fr">Bivwac team</a><br/>
+          200 Av. de la vieille Tour<br/>
+          33400 Talence, France 
+      </p>
+
+      <p>
+        <a href="mailto:benjamin.bach@inria.fr">benjamin.bach@inria.fr</a></br>
+        <a href="https://scholar.google.com/citations?hl=en&user=dXbz4FgAAAAJ">Google Scholar</a></br>
+        <a href="https://www.linkedin.com/in/benjamin-bach-4538a07b/?originalSubdomain=uk">LinkedIn</a></br>
+        <a href="https://orcid.org/0000-0002-9201-7744">OrcID: 0000-0002-9201-7744</a></br>
+        <a href="https://docs.google.com/document/d/1V34l5E9IV3wHo-w2x0EcfN0MCSCnHrdICZ0KQdD5gnA/edit?usp=sharing">Full CV</a></br>
+      </br>
+        <b>
+          <a href="../.">Research</a><br/>
+          <a href="/publications">Publications</a><br/>
+          <a href="/teaching">Teaching</a><br/>
+          <!-- <a href="/projects">Tools & Software</a><br/> -->
+        </b>
+      </p>
         
         <!-- add navigation -->
-        <a href="/">Home</a> - 
-        <a href="/publications">Publications</a> -
-        <a href="/index#projects">Research</a>
-        <br />
-        <a href="/people">People</a> -
-        <a href="/jobs/index.html">Jobs+PhD Projects</a> 
-        <br />
-        <a href="/kit/index.html">Equipment (kit)</a> -
-        <a href="/resources">Resources</a>
-        <br />
-        <a href="/teaching">Teaching</a> -
-        <a href="/index#community-activities">Outreach</a>
-        <br />
-        <a href="/projects">Projects/Tools</a> -
-        <a href="https://datafairs.github.io/previous.html">Student Projects</a>
-     
-        <!-- Twitter follow button -->
-        <br /><br />
-        <a href="https://vishub.net">https://vishub.net</a>
-        <br /><br />
-        <a href="https://twitter.com/vishublab?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @vishublab</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        
 
-        <!-- add logos -->
-        <br /><br />
-        <div>
-          <a href="https://www.designinformatics.org/" target="_blank">
-            <img src="/assets/logos/di_logo.png" width="80px" alt="Logo of Design Informatics at the University of Edinburgh">
-          </a>
-          <a href="https://www.ed.ac.uk/informatics" target="_blank">
-            <img src="/assets/logos/infed.png" width="90px" alt="Logo of the School of Informatics at the University of Edinburgh">
-          </a>
-          <a href="https://www.ed.ac.uk/" target="_blank">
-            <img src="/assets/logos/uoe.png" width="90px" alt="Logo of the University of Edinburgh">
-          </a>
-        </div>
+     
+
       </header>
       <section>
         {{ content }}
       </section>
       <footer>
         <p>
+          <img height="30px" src="assets/logos/inr_logo_rouge.svg" />
+          <img height="30px" src="assets/logos/uoe.png" /></br>
+          </br>
           <small>
             Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a>
           </small>

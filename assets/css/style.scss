@@ -21,6 +21,11 @@ img[alt~="people"] {
 	width: 150px;
 }
 
+img.pubImage{
+	border: solid 1px #eee;
+	border-radius: 2px;
+}
+
 .menu {
 	list-style-type: none;
 	width: 100%;
@@ -47,18 +52,14 @@ img[alt~="people"] {
 	display: inline-block;
 }
 
-.pubWrapper,
-.personWrapper {
+.pubWrapper,{
 	display: grid;
-	grid-column-gap: 10px;
-	margin-bottom: 15px;
+	grid-column-gap: 40px;
+	margin-bottom: 50px;
 }
 
 .pubWrapper {
-	grid-template-columns: 40% 1fr;
-}
-.personWrapper {
-	grid-template-columns: 20% 1fr;
+	grid-template-columns: 25% 1fr;
 }
 
 .pubImage,
@@ -73,10 +74,10 @@ img[alt~="people"] {
 
 /*make content section wider*/
 .wrapper {
-	width: 960px; /*originally 860px*/
+	width: 1160px; /*originally 860px*/
 }
 section {
-	width: 600px; /*originally 500px*/
+	width: 800px; /*originally 500px*/
 }
 /*media query also needs to be +100px so this is all copied from theme*/
 /*need to copy in ALL media queries because they get overwritten with the edits here*/
