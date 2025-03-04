@@ -46,8 +46,9 @@ For detailed info, please see my [full CV](https://docs.google.com/document/d/1V
 
 ## Theses
 
-* [Connections, changes, and cubes : unfolding dynamic networks for visual exploration](https://theses.hal.science/tel-01020535) (**PhD Thesis**), May 2014
-* [Understanding Data, One Visualization at a Time: Forms, Tools, and Skills for Big-Data Visual Exploration and Communication](/pdfs/Bach2024hdr.pdf) (**HDR, Habilitation à dirigir de recherche**), Dec 2024
+* **HDR** (habilitation à dirigir de recherche), Dec 2024: [Understanding Data, One Visualization at a Time: Forms, Tools, and Skills for Big-Data Visual Exploration and Communication](/pdfs/Bach2024hdr.pdf), Université de Bordeaux, France
+* **PhD** Thesis, May 2014: [Connections, changes, and cubes : unfolding dynamic networks for visual exploration](https://theses.hal.science/tel-01020535), Université Paris-Sud, France
+* **MSc (Diploma)**, Dec 2010: Facettice: Integrating Faceted Navigation and Conceptn Lattices for Visual Data Exploration, Technische Universität Dresden, Germany
 
 
 
