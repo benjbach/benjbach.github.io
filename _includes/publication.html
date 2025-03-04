@@ -2,7 +2,7 @@
   <div class="pubImage">
     {% if include.item.img %}
     <img class="pubImage"
-      src='{{ "/figures/" | append: include.item.img | resize: "800x800>" }}'
+      src="figures/{{ include.item.img }}"
       alt="{{ include.item.img_alt }}" />
     {% endif %}
   </div>
@@ -10,11 +10,12 @@
   <div class="pubText">
     <p>
       <b style="color:black;margin-bottom: 10px;">{{ include.item.title }}</b>
-    </br>
-    {{ include.item.authors }}.
-    </br>
-      <i>{{ include.item.journal_conf }}, {{ include.item.year}},</i> 
-    </br>
+      </br>
+      {{ include.item.authors }}.
+      </br>
+      <i>{{ include.item.journal_conf }} ({{ include.item.year}})</i> 
+      </br>
+      
       {% if include.item.paperlink %}
       <a
         href="{{ include.item.paperlink }}"
