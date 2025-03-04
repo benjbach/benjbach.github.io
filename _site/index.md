@@ -1,10 +1,13 @@
-Benjamin is a Research Scientist at the <a href="https://www.inria.fr/en">French National Institute for Research in Digital Science and Technology (<b>Inria</b>)</a> within the <a href="https://www.bivwac.fr">Bivwac Team</a>, Bordeaux. He is also part-time, an Associate Professor (<a href="https://en.wikipedia.org/wiki/Reader_(academic_rank)">Reader</a>) at the School of Informatics at the University of Edinburgh where he founded the <a href="https://vishub.net">VisHub</a> research group. In 2024, Benjamin obtained his habilitation a dirigir des recherches (HDR).
+# Research and Bio
 
-Benjamin's research investigates more effective and efficient <b>data visualizations, interfaces, and tools for data analysis, communication, and education</b>. He is regularly collaborating with social scientists, historians, biologists, peace reserachers, and public organizations. 
+Benjamin is a Research Scientist at the <a href="https://www.inria.fr/en">French National Institute for Research in Digital Science and Technology (Inria)</a> within the <a href="https://www.bivwac.fr"><b>Bivwac Team</b></a>, Bordeaux. 
+He is also a part-time Associate Professor (<a href="https://en.wikipedia.org/wiki/Reader_(academic_rank)">Reader</a>) at the School of Informatics at the University of Edinburgh where he founded the <a href="https://vishub.net">VisHub</a> research group. Benjamin obtained his habilitation à dirigir des recherches (HDR) in 2024.
+
+His research investigates novel <b>data visualizations, interfaces, and tools for data analysis, communication, and education</b> spanning the fields of visualization and Human-Computer Interaction. He is regularly collaborating with social scientists, historians, biologists, peace reserachers, and public organizations. 
 
 Benjamin was named  Significant New Researcher by the IEEE VIS conference (2021) and Eurographics Young Researcher (2019). His PhD received a VGTC Best Thesis honorable mention award (2014).
 
-## Research interests & projects
+## Research areas
 
 * [Network Visualization](projects/networks.html)
 * [Dashboards (learning analytics, health, public, energy, ... )](projects/covid19_vis.html)
@@ -21,9 +24,13 @@ Benjamin was named  Significant New Researcher by the IEEE VIS conference (2021)
 Before joining Inria in 2023, Benjamin was an
 * Associate Professor at the **University of Edinburgh**,  
 * postdoc at **Harvard University** (Visual Computing Group), 
-* **Monash University** (Immersive Analytics Lab), 
+* postdoc at **Monash University** (Immersive Analytics Lab), 
 * visiting scholar at **Microsoft-Research**, and a 
-* visiting scholar at the Brain Imaging Center at the **University of Washington**. Benjamin is an active member of the programme and organization committees of the primar venues for visualization (IEEE VIS) and human-computer interaction (ACM CHI). He is a co-founder of the Edinburgh Data Vis meetup with more than 1500 participants. 
+* visiting scholar at the Brain Imaging Center at the **University of Washington**.
+
+Benjamin is an active member of the programme and organization committees of the primar venues for visualization (IEEE VIS) and human-computer interaction (ACM CHI). He is a co-founder of the Edinburgh Data Vis meetup with more than 1500 participants. 
+
+For detailed info, please see my [full CV](https://docs.google.com/document/d/1V34l5E9IV3wHo-w2x0EcfN0MCSCnHrdICZ0KQdD5gnA/edit?usp=sharing).
 
 ## Awards
 
