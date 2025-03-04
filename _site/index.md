@@ -43,6 +43,14 @@ Benjamin is an active member of the programme and organization committees of the
 
 For detailed info, please see my [full CV](https://docs.google.com/document/d/1V34l5E9IV3wHo-w2x0EcfN0MCSCnHrdICZ0KQdD5gnA/edit?usp=sharing).
 
+
+## Theses
+
+* [Connections, changes, and cubes : unfolding dynamic networks for visual exploration](https://theses.hal.science/tel-01020535) (**PhD Thesis**), May 2014
+* [Understanding Data, One Visualization at a Time: Forms, Tools, and Skills for Big-Data Visual Exploration and Communication](/pdfs/Bach2024hdr.pdf) (**HDR, Habilitation à dirigir de recherche**), Dec 2024
+
+
+
 ## Awards
 
 * 2022 **Best Paper Honorable Mention**, IEEE VIS (Dashboard Design Patterns)
