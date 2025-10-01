@@ -5,23 +5,21 @@
 Benjamin is a Research Scientist at the <a href="https://www.inria.fr/en">French National Institute for Research in Digital Science and Technology (Inria)</a> within the <a href="https://www.bivwac.fr"><b>Bivwac Team</b></a>, Bordeaux. 
 He is also a part-time Associate Professor (<a href="https://en.wikipedia.org/wiki/Reader_(academic_rank)">Reader</a>) at the School of Informatics at the University of Edinburgh where he founded the <a href="https://vishub.net">VisHub</a> research group. Benjamin obtained his habilitation à dirigir des recherches (HDR) in 2024. He was named Significant New Researcher by the IEEE VIS conference (2021) and Eurographics Young Researcher (2019). His PhD received a VGTC Best Thesis honorable mention award (2014).
 
+His **research is in data visualization, human-computer interaction (HCI), data-driven storytelling, immersive analytics, and visualization education** with the goal to design novel and effective data visualization interfaces to support people in exploring and explaining data as well as to educate people in creating and using (interactive) data visualizations. As people require new ways to make sense out of the ever increasing availability and complexity of data and computational models, interactive visual representations of data are a necessary means to check data quality, observe patterns and outliers, and engage with models.
 
-in discussion and dissemination. Visualization interfaces are complementary to purely analytical methods and predictive
-My **research is in data visualization, human-computer interaction (HCI), data-driven storytelling, immersive analytics, and visualization education**. My goal is to design novel and effective data visualization interfaces to support people in exploring and explaining data as well as to educate people in creating and using (interactive) data visualizations. As people require new ways to make sense out of the ever increasing availability and complexity of data and computational models, interactive visual representations of data are a necessary means to check data quality, observe patterns and outliers, and engage with models.
+Benjamin designs and studies data visualization interfaces across a range of media and domains. He is working across fields with **biologists, neuroscientists, public health advisers, clinicians, archaeologists, historians, social scientists, illustrators, and peace researchers**. He observes problems in the use and creation of visualizations, then explores and prototypes solutions, deploys prototypes among a stakeholder group, and studies the impact and effectiveness of these new solutions. In many projects, he learns from real-world problems and domain experts. He aims to solve specific problems through design and rapid prototyping. Then, describe that problem as a general research problem in visualization or HCI (e.g., as a problem in visualizing relationships or spatio-temporal data) and generalize my solutions to other domains and data sets.
 
-In my research, I design and study data visualization interfaces across a range of media and domains. I am working across fields with **biologists, neuroscientists, public health advisers, clinicians, archaeologists, historians, social scientists, illustrators, and peace researchers**. I observe problems in the use and creation of visualizations, then explore and prototype solutions, deploy prototypes among a stakeholder group, and study the impact and effectiveness of these new solutions. In many projects, I learn from real-world problems and domain experts. I aim to solve their specific problem through design and rapid prototyping. Then, I describe that problem as a general research problem in visualization or HCI (e.g., as a problem in visualizing relationships or spatio-temporal data) and generalize my solutions to other domains and data sets.
+His methods draw from a range of **methodologies** including requirement analysis, focus groups, workshops, co-design sessions, user interface design, rapid and agile prototyping, system building, quantitative lab studies, qualitative data collection, and longitudinal studies. I create interactive visualizations on screens, in mixed and virtual reality, physical data models, as well as hybrids of these technologies.
 
-I draw from a range of **methodologies** including requirement analysis, focus groups, workshops, co-design sessions, user interface design, rapid and agile prototyping, system building, quantitative lab studies, qualitative data collection, and longitudinal studies. I create interactive visualizations on screens, in mixed and virtual reality, physical data models, as well as hybrids of these technologies.
-
-The large majority of my publications have been published at the top-tier venues for human-computer interaction (**ACM
+The large majority of his publications have been published at the top-tier venues for human-computer interaction (**ACM
 Conference on Human Factors in Computing Systems (CHI)**, h5-index=101) and visualization (**IEEE VIS and IEEE TVCG**,
 h5-index=82) (acceptance rates around 21-23%). 
 
 
 ## Research areas
 
-* [Network Visualization](projects/networks.html)
 * [Dashboards (learning analytics, health, public, energy, ... )](projects/covid19_vis.html)
+* [Network Visualization](projects/networks.html)
 * [Visualization of spatio and temporal data](projects/geographic.html)
 * [Data-driven storytelling](projects/data_comics.html)
 * [Visualization in Augmented and Virtual Reality (Immersive Analytics)](projects/immersive_analytics.html)
@@ -32,7 +30,7 @@ h5-index=82) (acceptance rates around 21-23%).
 
 ## Short Bio 
 
-Before joining Inria in 2023, Benjamin was an
+Before joining Inria in 2024, Benjamin was an
 * Associate Professor at the **University of Edinburgh**,  
 * postdoc at **Harvard University** (Visual Computing Group), 
 * postdoc at **Monash University** (Immersive Analytics Lab), 
@@ -54,6 +52,7 @@ For detailed info, please see my [full CV](https://docs.google.com/document/d/1V
 
 ## Awards
 
+* 2024 **Best Paper Honorable Mention**, IEEE VIS (Visualization Badges)
 * 2022 **Best Paper Honorable Mention**, IEEE VIS (Dashboard Design Patterns)
 * 2022 **Best Paper Honorable Mention**, IEEE VIS (Exploring Interactions with Printed Data Visualizations in Augmented Reality)
 * 2021 **New Significant Researcher Award, IEEE VIS**
@@ -66,7 +65,6 @@ For detailed info, please see my [full CV](https://docs.google.com/document/d/1V
 
 ## Current PhD Students
 
-1. Sarah Schöttler (since 2021, 1st supervisor) 
 1. Magdalena Boucher (since 2022, 2nd supervisor)
 1. Rea Michalopoulou (since 2022, 2nd supervisor)
 1. Sarah Dunn (since 2023, 1st supervisor
