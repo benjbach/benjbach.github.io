@@ -1,13 +1,11 @@
-# Research and Bio
+# Bio
 
-Benjamin is a Research Scientist at the <a href="https://www.inria.fr/en">French National Institute for Research in Digital Science and Technology (Inria)</a> within the <a href="https://www.bivwac.fr"><b>Bivwac Team</b></a>, Bordeaux. 
-He is also a part-time Associate Professor (<a href="https://en.wikipedia.org/wiki/Reader_(academic_rank)">Reader</a>) at the School of Informatics at the University of Edinburgh where he founded the <a href="https://vishub.net">VisHub</a> research group. Benjamin obtained his habilitation à dirigir des recherches (HDR) in 2024. He was named Significant New Researcher by the IEEE VIS conference (2021) and Eurographics Young Researcher (2019). His PhD received a VGTC Best Thesis honorable mention award (2014).
+Benjamin is a Research Scientist at the [Bivwac Group](https://www.bivwac.fr), [Inria](https://www.inria.fr/en) (France). His research focuses on making data visualization more effective and usable, which includes creating and evaluating interactive visualizations for complex datasets (e.g., networks and temporal data) and researching methods to effectively communicate and present data. Many of his projects involve interdisciplinary collaborations with researchers in neuroscience, history, archeology, law, and biology.
 
-The large majority of his publications have been published at the top-tier venues for human-computer interaction (**ACM
-Conference on Human Factors in Computing Systems (CHI)**, h5-index=101) and visualization (**IEEE VIS and IEEE TVCG**,
-h5-index=82) (acceptance rates around 21-23%). 
+Benjamin was named Significant New Researcher by the IEEE VIS conference (2021) and Eurographics Young Researcher (2019). His PhD received a VGTC Best Thesis honorable mention award (2014).
 
 ### Research 
+
 His **research is in data visualization, human-computer interaction (HCI), data-driven storytelling, immersive analytics, and visualization education** with the goal to design novel and effective data visualization interfaces to support people in exploring and explaining data as well as to educate people in creating and using (interactive) data visualizations. As people require new ways to make sense out of the ever increasing availability and complexity of data and computational models, interactive visual representations of data are a necessary means to check data quality, observe patterns and outliers, and engage with models.
 
 Benjamin designs and studies data visualization interfaces across a range of media and domains. He is working across fields with **biologists, neuroscientists, public health advisers, clinicians, archaeologists, historians, social scientists, illustrators, and peace researchers**. He observes problems in the use and creation of visualizations, then explores and prototypes solutions, deploys prototypes among a stakeholder group, and studies the impact and effectiveness of these new solutions. In many projects, he learns from real-world problems and domain experts. He aims to solve specific problems through design and rapid prototyping. Then, describe that problem as a general research problem in visualization or HCI (e.g., as a problem in visualizing relationships or spatio-temporal data) and generalize my solutions to other domains and data sets.
@@ -48,7 +46,6 @@ For detailed info, please see my [full CV](https://docs.google.com/document/d/1V
 * **HDR** (habilitation à dirigir de recherche), Dec 2024: [Understanding Data, One Visualization at a Time: Forms, Tools, and Skills for Big-Data Visual Exploration and Communication](/pdfs/Bach2024hdr.pdf), Université de Bordeaux, France
 * **PhD** Thesis, May 2014: [Connections, changes, and cubes : unfolding dynamic networks for visual exploration](https://theses.hal.science/tel-01020535), Université Paris-Sud, France
 * **MSc (Diploma)**, Dec 2010: Facettice: Integrating Faceted Navigation and Conceptn Lattices for Visual Data Exploration, Technische Universität Dresden, Germany
-
 
 
 ## Awards
