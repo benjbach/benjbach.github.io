@@ -1,6 +1,6 @@
 # Bio
 
-Benjamin is a Research Scientist at the [Bivwac Group](https://www.bivwac.fr), [Inria](https://www.inria.fr/en) (France). His research focuses on making data visualization more effective and usable, which includes creating and evaluating interactive visualizations for complex datasets (e.g., networks and temporal data) and researching methods to effectively communicate and present data. Many of his projects involve interdisciplinary collaborations with researchers in neuroscience, history, archeology, law, and biology.
+Benjamin is a Research Director at the [Bivwac Group](https://www.bivwac.fr), [Inria](https://www.inria.fr/en) (France). His research focuses on making data visualization more effective and usable, which includes creating and evaluating interactive visualizations for complex datasets (e.g., networks and temporal data) and researching methods to effectively communicate and present data. Many of his projects involve interdisciplinary collaborations with researchers in neuroscience, history, archeology, law, and biology.
 
 Benjamin was named Significant New Researcher by the IEEE VIS conference (2021) and Eurographics Young Researcher (2019). His PhD received a VGTC Best Thesis honorable mention award (2014).
 
@@ -63,12 +63,11 @@ For detailed info, please see my [full CV](https://docs.google.com/document/d/1V
 
 ## Current PhD Students
 
-1. Magdalena Boucher (since 2022, 2nd supervisor)
-1. Rea Michalopoulou (since 2022, 2nd supervisor)
-1. Sarah Dunn (since 2023, 1st supervisor
-1. Jinrui Wang (since 2023, 2nd supervisor)
-1. Valentin Edelsbrunner (since 2024, 1st supervisor)
-
+1. Sarah Dunn (since 2023)
+1. Jinrui Wang (since 2023)
+1. Valentin Edelsbrunner (since 2024)
+1. Nuoting Shen (since 2026)
+1. Clemens Reinhard (since 2026)
 
 
 <!-- ## Researh 

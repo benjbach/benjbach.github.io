@@ -58,9 +58,9 @@ Small to medium content changes that only concern one or a few files can easily 
 
 - Make sure you have [Ruby and Jekyll installed](https://jekyllrb.com/docs/installation/)
 - Clone this repo to your computer
-- Open a command line in that folder, run `bundle update` then `bundle exec jekyll serve`
+- Open a command line in that folder, run `bundle install` then `bundle exec jekyll serve`
 - The website should now be available at `localhost:4000`
 
 Alternatively, you can run Jekyll inside docker using:
 
-    docker run -v $(pwd):/srv/jekyll -it jekyll/builder jekyll build
+    docker run -v "$(pwd):/srv/jekyll" -it --entrypoint sh jekyll/builder -c "bundle install && bundle exec jekyll build"
