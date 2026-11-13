@@ -1,13 +1,10 @@
-title: VisHub Lab Edinburgh
+title: Benjamin Bach
 description: >-
-  Interdisciplinary research lab in data visualization and HCI at the University of Edinburgh.
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://vishub.net" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: vishublab
-github_username: visualinteractivedata
+url: "https://benjbach.net" # the base hostname & protocol for your site, e.g. http://example.com
 theme: jekyll-theme-minimal
-logo: "assets/logos/vishub-logo.svg"
-repository: visualinteractivedata/visualinteractivedata.github.io
+repository: benjbach/benjbach.github.io
 github: [metadata]
 relative_links:
   enabled: true
